@@ -1,2 +1,2 @@
 # Projects
-Compilations of my projects
+Compilation of my projects
